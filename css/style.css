@@ -1,0 +1,232 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background-color: dimgrey;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+
+}
+.block{
+    height: 100%;
+    width: 100%;
+}
+
+.one{
+    width: 200px;
+    height: 70px;
+    background-color: white;
+}
+
+.two{
+    width: 200px;
+    height: 70px;
+    background-color: black;
+}
+
+.three{
+    width: 250px;
+    height: 70px;
+    background-color: white;
+}
+.four{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+.four h1{
+    color: white;
+    font-size: medium;
+}
+.five{
+    width: 500px;
+    height: 70px;
+    background-color: white;
+}
+.six{
+    width: 200px;
+    height: 70px;
+    background-color: black;
+}
+
+.more ul {
+    list-style-type: none;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.more li {
+    padding: 15px 15px;
+}
+
+.more li:hover {
+    background-color: darkseagreen;
+}
+.squares{
+    background-color: dimgrey;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.news{
+    background-color: dimgrey;
+    width: 100%;
+    height: 80px;
+}
+.news h1{
+    color: black;
+}
+
+.family{
+    background-color: dimgrey;
+    width: 100%;
+    height: 80px;
+}
+.family h1{
+    color: black;
+}
+.square{
+    height: 100%;
+    width: 100%;
+}
+.first{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+}
+.second{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+}
+.third{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+}
+
+.after ul {
+    list-style-type: none;
+    display: flex;
+    color: black;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.after li {
+    padding: 15px 15px;
+}
+
+.after li:hover {
+    background-color: rgb(240, 181, 191);
+}
+.dina{
+    background-color: dimgrey;
+    width: 100%;
+    height: 80px;
+}
+.dina h1{
+    color: black;
+}
+.footer{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+.footer h1{
+    color: white;
+}
+.footer span{
+    color: violet;
+}
+
+.tekst{
+    color: white;
+} 
+
+.header{
+    width: 100%;
+    height: 800px;
+    background-color: dimgray;
+}
+.header h1{
+    color: black;
+}
+.vryad{
+    background-color: dimgrey;
+    width: 100%;
+    height: 1500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.fam{
+    height: 100%;
+    width: 100%;
+}
+.first2{
+    width: 600px;
+    height: 350px;
+    background-color: white;
+}
+.second2{
+    width: 600px;
+    height: 350px;
+    background-color: white;
+}
+.third2{
+    width: 600px;
+    height: 350px;
+    background-color: white;
+}
+
+
+.hobbys{
+    background-color: dimgrey;
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.hobby{
+    height: 100%;
+    width: 100%;
+}
+.one1{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+}
+.two1{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+}
+
+.shoppers{
+    background-color: dimgrey;
+    width: 100%;
+    height: 80px;
+}
+.shoppers h1{
+    color: black;
+}
+
+
